@@ -20,6 +20,7 @@ int main(){
 
         }
     }*/
+
    int flag=0;
    for(int i = 0;i<n;i++){
         a=a*10+A[i];
@@ -35,6 +36,10 @@ int main(){
             break;
         }
    }
-   
-
+   if(flag==1){
+    printf("Circular Permutation.\n");
+   }
+   else{
+    printf("Not a circular permutation.\n");
+   }
 }
