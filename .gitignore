@@ -1,53 +1,91 @@
-C programs29jul2026/p3
-C programs29jul2026/helloworld
-C programs29jul2026/p2
-C programs29jul2026/Gemini
-C programs29jul2026/test
-C programs29jul2026/hDiamond
-C programs29jul2026/pyramid
-C programs29jul2026/hollowDiamond
-C programs29jul2026/noteDistribution
-C programs29jul2026/lab
-C programs29jul2026/freq
-C programs29jul2026/p2_takingInput
-C programs29jul2026/output
-C programs29jul2026/Q6
-C programs29jul2026/Triangle
 C programs29jul2026/SwitchProgramsLab5/Quadratic
 C programs29jul2026/SwitchProgramsLab5/Polarity
-C programs29jul2026/t
-C programs29jul2026/testCondition
-C programs29jul2026/cab
-C programs29jul2026/p1
-C programs29jul2026/notes
-C programs29jul2026/romanToInt
-C programs29jul2026/labeva2
-C programs29jul2026/lab_e
-C programs29jul2026/Labeva
-C programs29jul2026/v
-C programs29jul2026/PRIME
-C programs29jul2026/Q5
-C programs29jul2026/par
-C programs29jul2026/Q3
-LabAssignments/p4
-LabAssignments/p3
+C programs29jul2026/Programs/p3
+C programs29jul2026/Programs/helloworld
+C programs29jul2026/Programs/p2
+C programs29jul2026/Programs/Gemini
+C programs29jul2026/Programs/test
+C programs29jul2026/Programs/hDiamond
+C programs29jul2026/Programs/pyramid
+C programs29jul2026/Programs/hollowDiamond
+C programs29jul2026/Programs/noteDistribution
+C programs29jul2026/Programs/lab
+C programs29jul2026/Programs/freq
+C programs29jul2026/Programs/p2_takingInput
+C programs29jul2026/Programs/output
+C programs29jul2026/Programs/Q6
+C programs29jul2026/Programs/Triangle
+C programs29jul2026/Programs/t
+C programs29jul2026/Programs/testCondition
+C programs29jul2026/Programs/cab
+C programs29jul2026/Programs/p1
+C programs29jul2026/Programs/notes
+C programs29jul2026/Programs/romanToInt
+C programs29jul2026/Programs/labeva2
+C programs29jul2026/Programs/lab_e
+C programs29jul2026/Programs/Labeva
+C programs29jul2026/Programs/v
+C programs29jul2026/Programs/PRIME
+C programs29jul2026/Programs/Q5
+C programs29jul2026/Programs/par
+C programs29jul2026/Programs/Q3
 LabAssignments/Lab6/p10
+LabAssignments/Lab6/p11
+LabAssignments/Lab6/test
 LabAssignments/Lab6/p7
 LabAssignments/Lab6/p9
 LabAssignments/Lab6/p8
 LabAssignments/Lab6/p6
-LabAssignments/p2
-LabAssignments/p5
-LabAssignments/p7
-LabAssignments/p8
-LabAssignments/p6
-LabAssignments/p1
+LabAssignments/Lab6/p13
+LabAssignments/Lab6/p12
+LabAssignments/Lab7/p2
+LabAssignments/Lab7/test
+LabAssignments/Lab5/p4
+LabAssignments/Lab5/p3
+LabAssignments/Lab5/p2
+LabAssignments/Lab5/p5
+LabAssignments/Lab5/p7
+LabAssignments/Lab5/p8
+LabAssignments/Lab5/p6
+LabAssignments/Lab5/p1
+TutorialQuestions/Tut7/Test
+TutorialQuestions/Tut7/PYQ
+TutorialQuestions/Tut7/Q6
+TutorialQuestions/Tut7/Q1
+TutorialQuestions/Tut7/Q2
+TutorialQuestions/Tut7/Q5
+TutorialQuestions/Tut7/Q4
+TutorialQuestions/Tut7/Q3
+TutorialQuestions/Tut6/Q1
+TutorialQuestions/Tut6/Q2
+TutorialQuestions/Tut6/Q5
+TutorialQuestions/Tut6/Q4
+TutorialQuestions/Tut6/Q3
+Programs/LongestSequence
+Pointers/usingPointerInStrings
+Pointers/p2
+Pointers/test
+Pointers/traversing
+Pointers/StrFunc2
+Pointers/test1
+Pointers/StringPointers
+Pointers/StrFunc
+Pointers/PointersInArray/printing
+Pointers/PointersInArray/p1
+Pointers/test2
 .git/config
+.git/objects/0d/6476f3db4ffb151615717e7ce424a79214d08c
+.git/objects/0d/19f8bf9ada5c0507d8268dc4b31116c20af59b
 .git/objects/0d/67c31aef9a45653584e9a69bc2fb42486830a6
+.git/objects/0c/db00aa3a1a4ccbe93a1da9cffee7d4b6936bf4
+.git/objects/3e/967489c5b0f45e5ac4c90d7694273381eb0b52
 .git/objects/50/e8edb829cbc91472f0b07d4aa75deccc33851c
 .git/objects/50/5943d98392b457e40d194d1ae26550f7551ce4
+.git/objects/57/006f9a6c0023b311fad18081fbee3258ec426e
 .git/objects/57/1f5a550057c4d2cc861fe00440fd43866f3216
+.git/objects/9b/fb7f23dc4c6b38af0526a1bbbd054765dc86d3
 .git/objects/32/75ebf648faecfaca58eb820fb2a13c0b5673b5
+.git/objects/35/ce229c0feddd4258f1a7f77624865797548127
 .git/objects/69/9e25879341cffe0d1e3d2bdad32816d0cf219e
 .git/objects/3c/2bd8984fb02f5480abc50353c3a4f8764b64ba
 .git/objects/3c/2a4b57d5d38fbe6794b91ab662114285d324ba
@@ -55,18 +93,30 @@ LabAssignments/p1
 .git/objects/51/ec8216fc558a5bc559f026eb79a43054408806
 .git/objects/51/92fd4c60ed3684da2820f17c6551c8b755740e
 .git/objects/0b/2dd6aa44e8dfe5336015c93163f3b9dddc77af
+.git/objects/94/cf2dde150b190c923e8ac6d4c2d46e67435a3a
+.git/objects/94/fdb4c26e181484d37d7edd022ec59fa698018a
+.git/objects/60/c62908a5b2e18ef004e5864bffe42c5a879058
+.git/objects/5a/da5b16bc94e4cd3cc588d1579431bfa34f7e2d
+.git/objects/05/79fbbb64c65eb1fb06941ac64f6294ed6190ce
 .git/objects/9d/2e9f86828c0801dfb8a1c640f08ba67b46fa1b
 .git/objects/a4/1b209133b32fe9529f3133b211bbbc126ac100
 .git/objects/b5/11822cb2d55b38f4d124cbbdd239c95aa327aa
+.git/objects/b5/5fb20c7a4434cea468490057fb9d0a5c311f05
 .git/objects/b5/d2ad1a62a77485a1563344d8ce4aa18c7fe007
+.git/objects/b5/4bf011a9af74dd3619be41a94a9aa1e7aa05c8
+.git/objects/d9/8ee9330222d81699c04bfc60ac335b28d71bc9
 .git/objects/d9/6fc9ba85c3262cd79d49df37e30ad69e5254a7
 .git/objects/ac/2ad7adefcd3d6b75d69a0f403b0e931ed4e09e
 .git/objects/bb/004601026d9583cc6b8cf7963bb12ac4712978
 .git/objects/d7/fd5f2f749c65ed6c7014da17d2e5c79fcfb3a9
+.git/objects/be/49b803dd1fc578720993a60e1b7edbe3089a68
+.git/objects/be/afe5a737b031453f8abd8a8f1518e9cd210a22
 .git/objects/b3/bae18aed9859bc591175e1600caaf09d25ee79
 .git/objects/df/56eac42b0da0f83cf0972ab3978840b5f07405
 .git/objects/df/9a2ac761c180cf7d251dbef24cdcb749345889
 .git/objects/df/1cb0fc87af9c82b5dcf4f1dd2760bfa41fdce2
+.git/objects/a2/151c608b82af5941ceeb0bafd4306c04063a95
+.git/objects/a5/83790b8e497e739057dbb42df199d34f9b5f5f
 .git/objects/bd/00e46a6582073596eb4a1f6bc24c2cd8e2acba
 .git/objects/d1/3052dcdb18069344a0f707a7d1f605a0aced92
 .git/objects/ae/6a19af4cfa8062665866ece00ed06255f474bb
@@ -74,67 +124,115 @@ LabAssignments/p1
 .git/objects/f4/066a37d01306e98d0beb79fa47cec3f773a128
 .git/objects/eb/c3c330a47e59a6dd241ff319d707038502742b
 .git/objects/fc/40ee9e361a181d6760fe57f0eebce0afc096cf
+.git/objects/fd/f27d8e1f45053ce91ad2be6e12322fb332a571
 .git/objects/fd/44300c896eb8166bbd12b87e420c3bf52165bb
 .git/objects/f2/60313e291406c64f2bd99df635df396be98816
 .git/objects/f5/ee4c75cb76d42da26264c426ab7b45be10eb03
 .git/objects/ca/5048b09e3750c707a965b41d537271009f1efa
 .git/objects/e4/3b0f988953ae3a84b00331d0ccf5f7d51cb3cf
 .git/objects/c8/77ffd8a898115281defa4a8aca5a7417f8dfbf
+.git/objects/c8/738e0bb268d5d722630f1ae445b897be82f812
+.git/objects/c8/0d5767635a097f301b6126a53b6a40b73e75d5
 .git/objects/fb/1774c525b0b4b0c371c2d07d489e94de88088d
+.git/objects/fb/bf47ac67f03ff1c807a8afca9eec77227a76af
 .git/objects/ed/1389e28a8415b972cdeb119637d592e61c67f2
+.git/objects/ec/dd690811b49a8d374299ea609193ebc531dc4a
 .git/objects/ec/7283a9efe51f1db5046eea65773dcebb815d9a
 .git/objects/ec/5bbfb147dce014462efe58037d670993845713
 .git/objects/18/3bf503d53b6b0e230b7dee327f993c26d92d83
 .git/objects/4b/2bd919bf42a203c69c0dd187fafadd911b94c5
 .git/objects/4b/516983056e959a4218c59cd773046d51d6bffa
+.git/objects/11/c7777d853be4a7995d994290d5677ee9206b5a
 .git/objects/11/7f6193628cc57c55b39d0cc4b05c406a217373
+.git/objects/11/3e4649a669f39aa634e14ffe614d00e5526c09
 .git/objects/7d/7c11ef54b1cfb502590a4723a541fe7245d461
+.git/objects/7d/342c91a1e2a8834d73dd989ac664bfba390df4
+.git/objects/29/538883961d012e8ffd328b7421ccccfb7b6f3b
 .git/objects/7c/962633620e35f2d4424066a3a6d587f6dd0aaf
+.git/objects/7c/32715e268803f2e3ae8f82da47801065d174ba
+.git/objects/89/fe8baaacd24bde22dddcd7a8d88e41be5723a6
+.git/objects/89/472f242943a40bb2ab7f53c5d3839a3857e80c
 .git/objects/73/5e843b71f3990534f0f2e0882fcb431241143e
 .git/objects/87/b17c08229aee7fd67d5a455529a64a48d4d593
+.git/objects/1a/009af3f671d6f650e8cd837ca90f7770740d5b
 .git/objects/28/7507c365ada33dd91e33702d84c86115741707
+.git/objects/28/bde153f1798a5941afdd502e0e17f372f73737
 .git/objects/17/d3fff5d0b7b2234e2e9f6bc1f91f5b6f5a09a5
 .git/objects/17/22fe33681479473cc9bd0802ba212ac097a450
 .git/objects/7b/e7ce129c3690989b84b87cc4c9e944cb40c8e7
 .git/objects/8f/a03475d5a788871a3c870999f58599f3b97134
+.git/objects/8f/62d1455d09deb164e11b3b71ab6b970300dfee
 .git/objects/7e/648b331130f7df6f9c302b3eb2c69cad2190b5
 .git/objects/10/ae7073de7e7792057ad54de1487f2597dd2d76
+.git/objects/19/97b55c6662e857b699fba67152a1b5ca1fd45b
+.git/objects/4c/bd496e50ebbc10164db111dd1e45ac15826845
 .git/objects/4c/4c1fb148fda201f2817b607edadec8db8a890b
 .git/objects/4c/3f32d908603bbc651091c0cc34858a3538dc2a
+.git/objects/4c/832e6c1d9c7a762ce8438d7fff68aecbc01c6d
+.git/objects/26/d1736940b37f9e81974e427e977000fe85047e
+.git/objects/4d/d8eb70febc9808bf06b1d59a9be60e2999768d
+.git/objects/75/c3374db56aab51c9428bab2f09559bf0c1c4a0
+.git/objects/81/4685a7e383dfbe5eb2de0eea40d0022183e92f
 .git/objects/81/a9041984752059c440ade7fcdfb4aa1504e71f
 .git/objects/81/c23b4f58a4d3af1776b131cefb71cc76f206f2
 .git/objects/72/607e4446d1808a04de43896738babcce78c716
 .git/objects/44/a2283adc74a2ecd45fc9b2c7fee02258bf999d
+.git/objects/2f/d7e2907f0531286510cfa975223c05fe453800
 .git/objects/2f/82bfc317bb2f614525e1e6136a6c865f96d674
+.git/objects/6b/5fa98f740873408fd5ca3a7e2fc6f660c86b43
+.git/objects/6b/22577db7e8687307104651990c90777105e56e
+.git/objects/07/e596102e7b7a3c0d6feceee2f770a95a532784
 .git/objects/38/4c56be4c1fcd8fc201413dee039b2d96c54fdc
+.git/objects/00/3ebd04ec497f98fe1d7c9a508ab3a7f8039a48
 .git/objects/6e/266f98d222616752500faf459c0a7a4f76f967
+.git/objects/5d/05f2499eed9bb31ec7cb023813df1bd4fd743c
 .git/objects/96/477515465c24c7c81536b28a0cb2cd731b6320
+.git/objects/54/2c37f37a7f05a13126dda63027d6ff9c4845df
 .git/objects/54/0c39a797598132613a21710243861fe799dab2
+.git/objects/54/39b9f8cc65ced56cdf0ec7598a2630cf136d19
+.git/objects/98/d3dd9798eb23315046806fb03126960e244bad
 .git/objects/53/96519ea66591faf187e4d2b5fda33c3a05f8c6
+.git/objects/3f/8d10feadb207408b8109cc6461f7ee4aac52f2
+.git/objects/5e/47029c78987c79a04d6a096953764ada251407
 .git/objects/5e/69d5b52fd7a9dabcc68f87998c89dc7dcd434f
 .git/objects/08/c438546b523dabdaf4a894b03b1d933ebebab2
 .git/objects/08/0835a35faf84bd7131d4820d5aaf5d04078a23
+.git/objects/08/3cc6c8f2bf9df31bb3aa7d08bfa6f19015b563
 .git/objects/08/f6a048181f33b602326abb74222493463292e5
+.git/objects/01/3d6f1657458a0c825e584b6d47b70eb98eef3d
+.git/objects/06/975c7c654661bfd717d2f93aac1e98967642cc
 .git/objects/6c/a78aad28136bd3984edc2a1d64b481632533c6
+.git/objects/6c/f9a84454cad064e269c385c10f7956b272a187
 .git/objects/99/cd24c25bfe5638880dc9a1f7dbce2122fd2ff9
 .git/objects/52/cfe6ae4902c7f8fc5b7bccd3325dfa20bbed99
 .git/objects/52/7632d91ec7ed1f474110cff92e65bba7ac44cc
 .git/objects/97/d703f2d52a6eca715524db7f381f5d13f26def
+.git/objects/63/1678e13c65eb6d95a7e99bcb169d41b718dc1b
 .git/objects/90/ac9e9c9ecfb79b9ea769c3aef091d3f9bd1c23
+.git/objects/bf/1f9f97114f55f428b8f87d7bb0abc2df2dcffe
 .git/objects/d4/0ed7cf35998c681fc7ff4d4bd8fc81cef5c09c
+.git/objects/ba/f08a8d4b8db2274d0be5e909b75dff603f4154
+.git/objects/ba/caccfa9820517df9e15d4d5b5260c77b6295ec
 .git/objects/a7/15ac8a790a42ee7b36cda54c04c26561070e15
 .git/objects/b1/076a8ba2f660c336b71ae96a723e7aa810f59a
 .git/objects/b1/78e895e0c5e97b0a892b41f52c1a51159f4f33
 .git/objects/dd/88d1b1f2454849cfe8147811e7a3f575e1863b
 .git/objects/dd/5262d69470c06274e24d1d167ba1c5dd144678
 .git/objects/dd/dd8c26865d7c6c55fa03dfbd25d212184661ae
+.git/objects/dc/28183b01b2ddbfe976271d82411a6a0e317537
 .git/objects/d5/059bdb4e918d9fe8434a2485154c556d341d7f
+.git/objects/aa/9b11a6f864c1c353c14b3ccacdc980e3a5208c
+.git/objects/aa/99e94f8a84bcbd311a098bbf36e74597777dfd
 .git/objects/af/6e43d0fad928a593e994e72842141e8bf07065
+.git/objects/af/b14c0c4aa2a4e35f759ee365eeadfa00287322
+.git/objects/b7/e46f2c45fb648f9b16e9331615a024ff47868a
 .git/objects/b7/4619760e341a690aabbe7a6f572f026f89d136
 .git/objects/b7/2ed95b27bc73d36b85c61d4965dc68244efc84
+.git/objects/b7/3c6df883b6acccb85d5546a5d8c7144c2554aa
 .git/objects/a8/9a0b0d85e193756a11c2d23de6948bda6f7795
 .git/objects/de/da71aebbd93e3cd6060f331d9c6c7d790c67de
 .git/objects/a6/7e8b17c86c8658c4bea49cd505baf508291781
+.git/objects/ef/6b8044d6698976c4790b0802bc0e065f15057b
 .git/objects/c4/b3334a83b5a2fb468e5776ff3aa2fbff435905
 .git/objects/ea/15a7dcf5679973ed5bde007709729c5989872b
 .git/objects/ea/d3ca67d002dbd37b4eef52951fb5e1e50af310
@@ -144,19 +242,35 @@ LabAssignments/p1
 .git/objects/e6/74a1a05911892b05abf7bb86d010bb0e54bead
 .git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
 .git/objects/f9/03d953494f264aa10219adb342911b65330a59
+.git/objects/f0/27ef7b7cdefd8fe99ab986385ce8aafc3ab869
+.git/objects/f7/e191e4f8f60268a22bc97508183530dda26019
+.git/objects/fa/9641546ca769ae5624344c0655ca62f4745501
+.git/objects/ff/fef726de0ad562f431e8174f0deb9f0e666b32
 .git/objects/f6/3a087b7b3df3f725e85f7a73b5df8bd38b6818
+.git/objects/f1/b1beee03f18f43c43b245cffddbd622d8bc652
+.git/objects/e7/319aafe70294788ce39ed08bebf6097c6fe78a
 .git/objects/cb/1e21db73b39c89d20382fdae306b172be0b082
+.git/objects/f8/9adf631f9e30599ca303f4f84c9dbadad04fef
 .git/objects/f8/3c5ce4944d8c207479600412cc53fbd38da677
+.git/objects/e0/687195ba41bea9df4a42b2800899ec2271d860
+.git/objects/e0/9155e5e23523fb4eeda40a33a913747658a94c
+.git/objects/46/1bd3933435a8c869a9c3a1ac5b805555866154
 .git/objects/2d/d39fabd32e65c7a1e18414e741923641652ff5
+.git/objects/2d/dd026074c1907168a63d02bf206e44f7237223
 .git/objects/83/5f83dfdc4062378154db9e23d91afac555024f
+.git/objects/83/824e2d1cc7c3ab9c02533448a9cb376d9f003d
 .git/objects/70/7f03d71e3739fcbffaee1d9d0719e0e7e2d521
 .git/objects/70/35b33585c1868e1b5cb5dc85b5d985a07a17a8
+.git/objects/1e/7d9b8783925d0e5332b4854ea44811783b445a
 .git/objects/84/cdfabfbcb2da343291e28b2a5f1cc980d7b993
+.git/objects/84/e851cd82f80357d5e646beef68da78d74061ef
 .git/objects/4a/8cd88e7d451459aab14da753f3cc60006fd5e9
 .git/objects/8d/1d91d8f82881ff238580db4369f6a7616a884f
+.git/objects/15/f537683ca139bfac8c93c1c6e3eb7ba502bff8
 .git/objects/12/1be5d6877bdc3d22b60e15a24b5737b7b67725
 .git/objects/12/8935275dff458f2f9620122080eaa56df29fd4
 .git/objects/12/6c30e6c59d66a2450f588f11d641979a89445d
+.git/objects/8c/7e8c4f958f3322bbda69b8dd921255102cf149
 .git/objects/71/e0b14d109b192eae04b11d1157c9d214bfb466
 .git/objects/71/23405fcbefd4bbe13fc68a4a4204ceb96ca5c7
 .git/objects/76/e6fe98253ad86015874aae3ffad8368c6e0a0e
@@ -165,13 +279,25 @@ LabAssignments/p1
 .git/objects/1c/f7f0a96e9ae151a343543382314bc94535485e
 .git/objects/82/c7c5f40aec9530f6cc2ff547882245ebbd867f
 .git/objects/40/f1ae866ca8df026c37c0be8975b4c8a7961f59
+.git/objects/40/36e62c089d590a6e723b1ab6079b784efd8d51
 .git/objects/40/5b3a0b3d0277df5c042a94e9539d93e7001597
 .git/objects/47/07601015d0bedf99addd51af97bac54cf4b00b
 .git/objects/47/d97a0faef4c33a0b1ca4b61d9d4c03a2b8120b
+.git/objects/7f/9f4cf9ce9085e088e0bce36be8c3408a26b39a
+.git/objects/7f/a3b47912b168a4db8d4916299ef15d4d7e5e9d
+.git/objects/25/cd9a019a058f09a5b5c611fc1824ad64eea718
+.git/objects/25/48f8ea6332b51845d0782a925d2c87d3f789f0
 .git/HEAD
 .git/info/exclude
+.git/logs/HEAD
+.git/logs/refs/heads/main
+.git/logs/refs/remotes/origin/main
 .git/description
+.git/refs/heads/main
+.git/refs/remotes/origin/main
 .git/index
+.git/COMMIT_EDITMSG
+.git/FETCH_HEAD
 Understanding Arrays/p6_concatenate
 Understanding Arrays/ExTest
 Understanding Arrays/p3_insertion
